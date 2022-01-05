@@ -1,3 +1,3 @@
 # Profile_Ui
 
-![profileuiui](https://user-images.githubusercontent.com/96680312/148188165-bd66c445-f6f9-4911-8225-4a756ca2caa8.png)
+![proui2](https://user-images.githubusercontent.com/96680312/148204785-b1fe319e-c44f-4895-90e9-6d77813d7452.png)
