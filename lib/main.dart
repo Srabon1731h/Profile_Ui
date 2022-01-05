@@ -4,7 +4,7 @@ import 'components/appbar.dart';
 import 'portfolio_ui.dart';
 
 void main() {
-  runApp(const App());
+  runApp(App());
 }
 
 class App extends StatelessWidget {
@@ -16,7 +16,7 @@ class App extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Portfolio',
       home: Scaffold(
-        backgroundColor: Colors.blueAccent[100],
+        backgroundColor: Colors.blue[100],
         appBar: AppBar(
           elevation: 0,
           backgroundColor: Colors.transparent,

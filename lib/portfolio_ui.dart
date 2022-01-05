@@ -9,20 +9,22 @@ class ProtfolioUI extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          CircularImage(),
-          SizedBox(
-            height: 100,
-          ),
-          AppText(),
-          SizedBox(
-            height: 20,
-          ),
-          Appbutton(),
-        ],
+    return Container(
+      child: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            CircularImage(),
+            SizedBox(
+              height: 20,
+            ),
+            AppText(),
+            SizedBox(
+              height: 20,
+            ),
+            Appbutton(),
+          ],
+        ),
       ),
     );
   }
